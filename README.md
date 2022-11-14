@@ -216,7 +216,7 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Great job adding a task list to the file :heart:_
